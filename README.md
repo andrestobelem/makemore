@@ -1,0 +1,2 @@
+# makemore
+Karpathy's tutorial
