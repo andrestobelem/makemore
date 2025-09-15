@@ -4,15 +4,17 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-torch = "*"
-torchvision = "*"
-black = "*"
 ipykernel = "*"
 matplotlib = "*"
+torch = "*"
+torchvision = "*"
 
 [dev-packages]
+autopep8 = "*"
 black = "*"
+flake8 = "*"
 isort = "*"
+pylint = "*"
 pytest = "*"
 
 [requires]
